@@ -1,0 +1,6 @@
+name 'southwest-checkin'
+maintainer 'Bao Nguyen'
+maintainer_email 'ngqbao@gmail.com'
+license 'All rights reserved'
+description 'Installs/Configures southwest-checkin'
+version '0.1.0'
